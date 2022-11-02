@@ -9,9 +9,9 @@ You are required to model the price of houses with the available independent var
 * [Technologies Used](#technologies-used)
 
 ## General Information
+- data understanding , cleaning , exploratory data analysis performed on dataset
 - linear regression is performed on the dataset.
-- Advanced refression methods were used on dataset
-- 
+- Regularization using Ridge and Lasso Regression.
 - The project is done as part of coursework in the Machine Learning module. 
  
 
